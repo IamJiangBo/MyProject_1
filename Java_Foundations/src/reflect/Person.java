@@ -14,6 +14,8 @@ public class Person {
     String c;
     private String d;
 
+    public String demo;
+
 
     public Person() {
     }
