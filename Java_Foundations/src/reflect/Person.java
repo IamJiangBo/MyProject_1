@@ -14,7 +14,7 @@ public class Person {
     String c;
     private String d;
 
-    public String demo;
+    public String demo_2;
 
 
     public Person() {
